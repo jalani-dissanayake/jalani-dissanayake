@@ -51,10 +51,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalani-dissanayake&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalani-dissanayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jalani-dissanayake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
